@@ -1,0 +1,1 @@
+#este es el constructor del paquete, se ejecuta cada vez que se importa el paquete

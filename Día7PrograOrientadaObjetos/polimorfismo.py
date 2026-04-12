@@ -1,4 +1,5 @@
 # Polimorfismo 
+# el polimorfismo es la capacidad de un objeto de tomar muchas formas, es decir, que un mismo método pueda funcionar con objetos de diferentes clases.
 
 class Vaca:
 
@@ -30,10 +31,9 @@ animales= [vaca1, oveja1]
 def animal_habla(animal):
     animal.hablar()
     
-
-
-
 animal_habla(vaca1)
 animal_habla(oveja1) 
+
+#practica polimorfismo
 
 
