@@ -13,3 +13,6 @@ para desactivar el entorno virtual se puede usar el comando `deactivate`.
 
 ```
 
+pauetes instalados:
+- pip install pylint para testear el código Python
+- 
